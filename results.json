@@ -27,8 +27,8 @@
   },
   {
     "rank": "6.",
-    "title": "As Clocks Get More Precise, Time Gets More Fuzzy",
-    "link": "http://www.sciencealert.com/physicists-find-as-clocks-get-more-precise-time-gets-more-fuzzy"
+    "title": "Building a Hackintosh Pro",
+    "link": "https://www.dancounsell.com/building-a-hackintosh-pro/"
   },
   {
     "rank": "7.",
@@ -37,8 +37,8 @@
   },
   {
     "rank": "8.",
-    "title": "Bad SSL",
-    "link": "https://badssl.com/"
+    "title": "As Clocks Get More Precise, Time Gets More Fuzzy",
+    "link": "http://www.sciencealert.com/physicists-find-as-clocks-get-more-precise-time-gets-more-fuzzy"
   },
   {
     "rank": "9.",
@@ -47,38 +47,38 @@
   },
   {
     "rank": "10.",
+    "title": "Bad SSL",
+    "link": "https://badssl.com/"
+  },
+  {
+    "rank": "11.",
     "title": "The Firebase Story",
     "link": "https://hackernoon.com/how-to-build-a-product-loved-by-millions-and-get-acquired-by-google-the-firebase-story-82dab4e3e80c"
   },
   {
-    "rank": "11.",
+    "rank": "12.",
     "title": "JavaScript once had a JSX-like syntax called E4X",
     "link": "https://developer.mozilla.org/en-US/docs/Archive/Web/E4X_tutorial/Descendants_and_Filters"
   },
   {
-    "rank": "12.",
-    "title": "Building a Hackintosh Pro",
-    "link": "https://www.dancounsell.com/building-a-hackintosh-pro/"
-  },
-  {
     "rank": "13.",
-    "title": "Continuous Analytics Over Discontinuous Streams [pdf]",
-    "link": "https://people.eecs.berkeley.edu/~franklin/Papers/sigmod10krishnamurthy.pdf"
-  },
-  {
-    "rank": "14.",
     "title": "‘Honeypot’ pages to try to convert people searching for cracked software",
     "link": "https://successfulsoftware.net/2017/03/10/honeypot-page/"
   },
   {
+    "rank": "14.",
+    "title": "Continuous Analytics Over Discontinuous Streams [pdf]",
+    "link": "https://people.eecs.berkeley.edu/~franklin/Papers/sigmod10krishnamurthy.pdf"
+  },
+  {
     "rank": "15.",
-    "title": "Appreciating Art with Algorithms",
-    "link": "https://hackernoon.com/appreciating-art-with-algorithms-58b651615561"
+    "title": "Mapzen's new OpenStreetMap-powered bike map based on safety",
+    "link": "https://mapzen.com/blog/bike-map/"
   },
   {
     "rank": "16.",
-    "title": "Mapzen's new OpenStreetMap-powered bike map based on safety",
-    "link": "https://mapzen.com/blog/bike-map/"
+    "title": "Appreciating Art with Algorithms",
+    "link": "https://hackernoon.com/appreciating-art-with-algorithms-58b651615561"
   },
   {
     "rank": "17.",
@@ -97,69 +97,69 @@
   },
   {
     "rank": "20.",
-    "title": "Inside the Cult of Nike",
-    "link": "http://www.wmagazine.com/story/nike-march-madness-sneakers-smart-design"
-  },
-  {
-    "rank": "21.",
     "title": "'The language more beautiful than words'",
     "link": "http://www.bbc.co.uk/news/disability-39302109"
   },
   {
-    "rank": "22.",
-    "title": "Bay Area Bike Share is one of the least-used systems in US, costs $5k per bike",
-    "link": "https://blog.spin.pm/the-5000-a-bike-city-bikeshare-thats-hardly-used-b004a2c31b45#.i48an5isd"
+    "rank": "21.",
+    "title": "Inside the Cult of Nike",
+    "link": "http://www.wmagazine.com/story/nike-march-madness-sneakers-smart-design"
   },
   {
-    "rank": "23.",
+    "rank": "22.",
     "title": "Timg – Terminal Image Viewer",
     "link": "https://github.com/hzeller/timg"
   },
   {
-    "rank": "24.",
-    "title": "Long-Term Thinking and Nuclear Waste",
-    "link": "http://blog.longnow.org/02017/03/16/the-other-10000-year-project-long-term-thinking-and-nuclear-waste/"
-  },
-  {
-    "rank": "25.",
-    "title": "Lua VM running in a WASM environment",
-    "link": "https://github.com/vvanders/wasm_lua"
-  },
-  {
-    "rank": "26.",
+    "rank": "23.",
     "title": "Why Y Combinator Made All the Difference",
     "link": "https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug"
   },
   {
-    "rank": "27.",
+    "rank": "24.",
+    "title": "Lua VM running in a WASM environment",
+    "link": "https://github.com/vvanders/wasm_lua"
+  },
+  {
+    "rank": "25.",
+    "title": "Long-Term Thinking and Nuclear Waste",
+    "link": "http://blog.longnow.org/02017/03/16/the-other-10000-year-project-long-term-thinking-and-nuclear-waste/"
+  },
+  {
+    "rank": "26.",
     "title": "Unconventional way of learning a new programming language",
     "link": "https://dev.to/sahildua2305/unconventional-way-of-learning-a-new-programming-language"
   },
   {
+    "rank": "27.",
+    "title": "MIT Professor says powerful elites set up monopolies so they can abuse consumers",
+    "link": "http://foreignpolicy.com/2013/03/12/what-bill-gates-got-wrong-about-why-nations-fail/?re"
+  },
+  {
     "rank": "28.",
+    "title": "Bay Area Bike Share is one of the least-used systems in US, costs $5k per bike",
+    "link": "https://blog.spin.pm/the-5000-a-bike-city-bikeshare-thats-hardly-used-b004a2c31b45#.i48an5isd"
+  },
+  {
+    "rank": "29.",
     "title": "Solving State Explosion with Petri-Nets and Vector Clocks",
     "link": "https://github.com/bitwrap/bitwrap-io/blob/master/whitepaper.md"
   },
   {
-    "rank": "29.",
+    "rank": "30.",
     "title": "Heroku CI in public beta",
     "link": "https://devcenter.heroku.com/articles/heroku-ci"
-  },
-  {
-    "rank": "30.",
-    "title": "Ask HN: Best books on AI?",
-    "link": "https://news.ycombinator.com/item?id=13900153"
   }
 ,
   {
     "rank": "31.",
-    "title": "Google Family Link",
-    "link": "https://families.google.com/familylink/"
+    "title": "Ask HN: Best books on AI?",
+    "link": "https://news.ycombinator.com/item?id=13900153"
   },
   {
     "rank": "32.",
-    "title": "MIT Professor says powerful elites set up monopolies so they can abuse consumers",
-    "link": "http://foreignpolicy.com/2013/03/12/what-bill-gates-got-wrong-about-why-nations-fail/?re"
+    "title": "Google Family Link",
+    "link": "https://families.google.com/familylink/"
   },
   {
     "rank": "33.",
@@ -168,13 +168,13 @@
   },
   {
     "rank": "34.",
-    "title": "Railroad Tycoon",
-    "link": "http://www.filfre.net/2017/03/railroad-tycoon/"
+    "title": "How Jackie Chan Does Action Comedy",
+    "link": "https://www.youtube.com/watch?v=Z1PCtIaM_GQ"
   },
   {
     "rank": "35.",
-    "title": "How We Are Improving Performance",
-    "link": "https://blog.imgix.com/2017/03/17/note-on-performance.html"
+    "title": "Railroad Tycoon",
+    "link": "http://www.filfre.net/2017/03/railroad-tycoon/"
   },
   {
     "rank": "36.",
@@ -183,33 +183,33 @@
   },
   {
     "rank": "37.",
+    "title": "How We Are Improving Performance",
+    "link": "https://blog.imgix.com/2017/03/17/note-on-performance.html"
+  },
+  {
+    "rank": "38.",
     "title": "Palantir blocked China’s CDH Investments from buying stock, says a lawsuit",
     "link": "https://www.bloomberg.com/news/articles/2017-03-18/at-peter-thiel-s-palantir-allegations-of-theft-and-deception"
   },
   {
-    "rank": "38.",
+    "rank": "39.",
     "title": "Smashing Magazine just got 10x faster",
     "link": "https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/"
   },
   {
-    "rank": "39.",
+    "rank": "40.",
     "title": "The Cult of DD",
     "link": "https://eklitzke.org/the-cult-of-dd"
   },
   {
-    "rank": "40.",
+    "rank": "41.",
     "title": "Building Safe AI: A Tutorial on Homomorphically Encrypted Deep Learning",
     "link": "https://iamtrask.github.io/2017/03/17/safe-ai/"
   },
   {
-    "rank": "41.",
+    "rank": "42.",
     "title": "The BSD family tree",
     "link": "https://github.com/freebsd/freebsd/blob/master/share/misc/bsd-family-tree"
-  },
-  {
-    "rank": "42.",
-    "title": "Sanakirja: Transactional, branchable key-value store in Rust",
-    "link": "https://pijul.org/2017/03/16/sanakirja.html"
   },
   {
     "rank": "43.",
@@ -218,8 +218,8 @@
   },
   {
     "rank": "44.",
-    "title": "Plans for the death of the Queen",
-    "link": "https://www.theguardian.com/uk-news/2017/mar/16/what-happens-when-queen-elizabeth-dies-london-bridge?CMP=Share_iOSApp_Other"
+    "title": "Sanakirja: Transactional, branchable key-value store in Rust",
+    "link": "https://pijul.org/2017/03/16/sanakirja.html"
   },
   {
     "rank": "45.",
@@ -233,13 +233,13 @@
   },
   {
     "rank": "47.",
-    "title": "Access to open data is growing in Detroit",
-    "link": "http://www.modeldmedia.com/features/open-data-090516.aspx"
+    "title": "Paralyzed Virginia Marine walks for first time in 33 years",
+    "link": "http://wtvr.com/2017/03/16/paralyzed-u-s-marine-veteran-walks-for-first-time-in-33-years/"
   },
   {
     "rank": "48.",
-    "title": "Paralyzed Virginia Marine walks for first time in 33 years",
-    "link": "http://wtvr.com/2017/03/16/paralyzed-u-s-marine-veteran-walks-for-first-time-in-33-years/"
+    "title": "Access to open data is growing in Detroit",
+    "link": "http://www.modeldmedia.com/features/open-data-090516.aspx"
   },
   {
     "rank": "49.",
@@ -309,13 +309,13 @@
   },
   {
     "rank": "62.",
-    "title": "US Web Design Standards Release 1.0.0",
-    "link": "https://standards.usa.gov/whats-new/releases/#version-1-0-0"
+    "title": "Faster 3D rendering with WebGL 2.0",
+    "link": "https://blog.chromium.org/2017/03/faster-3d-rendering-with-webgl-20.html"
   },
   {
     "rank": "63.",
-    "title": "Faster 3D rendering with WebGL 2.0",
-    "link": "https://blog.chromium.org/2017/03/faster-3d-rendering-with-webgl-20.html"
+    "title": "US Web Design Standards Release 1.0.0",
+    "link": "https://standards.usa.gov/whats-new/releases/#version-1-0-0"
   },
   {
     "rank": "64.",
@@ -324,18 +324,18 @@
   },
   {
     "rank": "65.",
+    "title": "Web Scraping: Bypassing “403 Forbidden,” captchas, and more",
+    "link": "http://sangaline.com/post/advanced-web-scraping-tutorial/"
+  },
+  {
+    "rank": "66.",
     "title": "John D. Cook on math consulting, Python and going solo [audio]",
     "link": "https://rare-technologies.com/rrp-2-john-d-cook-consulting/"
   },
   {
-    "rank": "66.",
+    "rank": "67.",
     "title": "Swagger: The World's Most Popular API Framework",
     "link": "http://swagger.io/"
-  },
-  {
-    "rank": "67.",
-    "title": "Web Scraping: Bypassing “403 Forbidden,” captchas, and more",
-    "link": "http://sangaline.com/post/advanced-web-scraping-tutorial/"
   },
   {
     "rank": "68.",
@@ -349,13 +349,13 @@
   },
   {
     "rank": "70.",
-    "title": "Show HN: *nixy filter to color stdout, by rows or space-separated columns",
-    "link": "https://github.com/lonetwin/colorize"
+    "title": "Silk Road evolved as 'grass-routes' movement",
+    "link": "https://phys.org/news/2017-03-silk-road-evolved-grass-routes-movement.html"
   },
   {
     "rank": "71.",
-    "title": "Silk Road evolved as 'grass-routes' movement",
-    "link": "https://phys.org/news/2017-03-silk-road-evolved-grass-routes-movement.html"
+    "title": "Show HN: *nixy filter to color stdout, by rows or space-separated columns",
+    "link": "https://github.com/lonetwin/colorize"
   },
   {
     "rank": "72.",
@@ -369,13 +369,13 @@
   },
   {
     "rank": "74.",
-    "title": "McDonalds India is leaking 2.2M users data",
-    "link": "https://hackernoon.com/mcdonalds-india-is-leaking-2-2-million-users-data-d5758b2eb3f8#.woaua1qdv"
+    "title": "HTTPS Interception Weakens TLS Security",
+    "link": "https://www.us-cert.gov/ncas/alerts/TA17-075A"
   },
   {
     "rank": "75.",
-    "title": "HTTPS Interception Weakens TLS Security",
-    "link": "https://www.us-cert.gov/ncas/alerts/TA17-075A"
+    "title": "McDonalds India is leaking 2.2M users data",
+    "link": "https://hackernoon.com/mcdonalds-india-is-leaking-2-2-million-users-data-d5758b2eb3f8#.woaua1qdv"
   },
   {
     "rank": "76.",
@@ -399,13 +399,13 @@
   },
   {
     "rank": "80.",
-    "title": "Using Intel's SGX to Attack Itself",
-    "link": "https://www.schneier.com/blog/archives/2017/03/using_intels_sg.html"
+    "title": "Why Some Startups Win",
+    "link": "https://steveblank.com/2017/03/15/why-some-startups-win/"
   },
   {
     "rank": "81.",
-    "title": "Why Some Startups Win",
-    "link": "https://steveblank.com/2017/03/15/why-some-startups-win/"
+    "title": "Using Intel's SGX to Attack Itself",
+    "link": "https://www.schneier.com/blog/archives/2017/03/using_intels_sg.html"
   },
   {
     "rank": "82.",
@@ -414,13 +414,13 @@
   },
   {
     "rank": "83.",
-    "title": " Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute",
-    "link": "https://www.nytimes.com/2017/03/16/us/oxford-comma-lawsuit.html"
+    "title": "Dwarf Fortress creator Tarn Adams on simulating most complex magic system ever",
+    "link": "http://www.pcgamer.com/dwarf-fortress-creator-tarn-adams-talks-about-simulating-the-most-complex-magic-system-ever/"
   },
   {
     "rank": "84.",
-    "title": "Dwarf Fortress creator Tarn Adams on simulating most complex magic system ever",
-    "link": "http://www.pcgamer.com/dwarf-fortress-creator-tarn-adams-talks-about-simulating-the-most-complex-magic-system-ever/"
+    "title": " Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute",
+    "link": "https://www.nytimes.com/2017/03/16/us/oxford-comma-lawsuit.html"
   },
   {
     "rank": "85.",
@@ -444,12 +444,12 @@
   },
   {
     "rank": "89.",
-    "title": "'Healthiest hearts in the world' found",
-    "link": "http://www.bbc.co.uk/news/health-39292389"
+    "title": "Practical Color Theory for People Who Code",
+    "link": "https://tallys.github.io/color-theory/"
   },
   {
     "rank": "90.",
-    "title": "Practical Color Theory for People Who Code",
-    "link": "https://tallys.github.io/color-theory/"
+    "title": "Startup School Online: Registration and Deals",
+    "link": "https://blog.ycombinator.com/startup-school-online-registration-and-deals/"
   }
 ]

@@ -1,6 +1,7 @@
-var fs = require('fs');
-var Xray = require('x-ray');
-var xray = new Xray();
+const fs = require('fs');
+const Xray = require('x-ray');
+const xray = new Xray();
+const Nightmare = require('nightmare');
 
 // XRAY GOOGLE.COM
 // xray('http://google.com', 'a',
@@ -28,14 +29,24 @@ var xray = new Xray();
 //     fs.writeFile("./results.json", JSON.stringify(results, null, '\t'));
 // });
 
-// XRAY NEW.YCOMBINATOR
-xray('https://news.ycombinator.com/', '.athing',
-    [{
-        rank: '.rank',
-        title: 'td:nth-child(3) a',
-        link: 'td:nth-child(3) a@href'
-    }]
-)
-    .paginate('a[rel="nofollow"]:last-child@href')
-    .limit(3)
-    .write('./results.json');
+// // XRAY NEW.YCOMBINATOR
+// xray('https://news.ycombinator.com/', '.athing',
+//     [{
+//         rank: '.rank',
+//         title: 'td:nth-child(3) a',
+//         link: 'td:nth-child(3) a@href'
+//     }]
+// )
+//     .paginate('a[rel="nofollow"]:last-child@href')
+//     .limit(3)
+//     .write('./results.json');
+
+// Use nightmare to scrape angular type app
+new Nightmare()
+    .goto('http://weather.com')
+    .evaluate(function(){
+        return document.querySelector('.temperature').innerText;
+    }, function(temperature){
+        console.log(temperature);
+    })
+    .run();
