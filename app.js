@@ -41,12 +41,26 @@ const Nightmare = require('nightmare');
 //     .limit(3)
 //     .write('./results.json');
 
-// Use nightmare to scrape angular type app
+// // Use nightmare to scrape angular type app
+// new Nightmare()
+//     .goto('http://weather.com')
+//     .evaluate(function(){
+//         return document.querySelector('.temperature').innerText;
+//     }, function(temperature){
+//         console.log(temperature);
+//     })
+//     .run();
+
+// use nightmare to access a login page and then scrape it on dynamic site
 new Nightmare()
-    .goto('http://weather.com')
+    .goto('http://localhost:3000/keystone/signin')
+    .type('#email', 'user@keystonejs.com')
+    .type('#password', 'password')
+    .click('.auth-form > button')
+    .wait('.page-header')
     .evaluate(function(){
-        return document.querySelector('.temperature').innerText;
-    }, function(temperature){
-        console.log(temperature);
+        return document.querySelector('h1').innerText;
+    }, function(result){
+        console.log(result);
     })
     .run();
